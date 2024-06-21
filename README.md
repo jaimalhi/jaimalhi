@@ -2,7 +2,7 @@
 
 **Software Developer** 
 
-Hi there! I'm Jai, a third-year student at the Simon Fraser University, pursuing a Bachelor's degree in Computer Science as a Software Systems major and with a minor in Business Administration. I am a full-developer with a passion to learn new skills!
+Hi there! I'm Jai, a student at the Simon Fraser University, pursuing a Bachelor's degree in Computer Science as a Software Systems major with a minor in Business Administration. I am a full-stack developer with a passion to learn new skills!
 
 🌳 *Fun Fact:* I love the outdoors! Camping is one of my favourite activities 🌳
 
