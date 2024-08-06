@@ -9,6 +9,6 @@ Hi there! I'm Jai, a student at the Simon Fraser University, pursuing a Bachelor
 ---
 
 ### Connect with me
-
+- Visit me @ [jaimalhi.ca](https://www.jaimalhi.ca/)
 - Message on [LinkedIn](https://www.linkedin.com/in/jaimalhi/)
 - Email @ [jai_malhi@sfu.ca](jai_malhi@sfu.ca)
